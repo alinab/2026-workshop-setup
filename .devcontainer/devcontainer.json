@@ -13,7 +13,8 @@
                            "ocaml.sandbox": {
                            "kind": "opam",
                            "switch": "default"
-                           }
+                           },
+                         "github.copilot.enable": { "*": false }
                         }
                 }
         },
