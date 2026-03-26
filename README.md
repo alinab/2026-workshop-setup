@@ -48,7 +48,9 @@ the workshop entirely in the browser — no Docker or local installation needed.
 
 2. Select the **Codespaces** tab, then click **Create codespace on main**.
 
-   ![Create codespace on main](.github/assets/follow_through_2.png)
+<p align="center">
+  <img src=".github/assets/follow_through_2.png" width="60%">
+</p>
 
 3. VS Code will launch in your browser with the full toolkit already installed —
    you can dive straight into the exercises.
