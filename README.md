@@ -51,8 +51,11 @@ for help, questions or explore what's happening in the OCaml world.
 
 #### Using GitHub Codespaces (no local setup required)
 
-If you have free tier credits available on your GitHub account, you can complete
-the workshop entirely in the browser — no Docker or local installation needed.
+If you have a GitHub account, you can complete the workshop entirely in the browser —
+no Docker or local installation needed. 
+
+> **IIT Madras students:** You can create a GitHub account using your smail
+> (`@smail.iitm.ac.in`) address if you don't have one already.
 
 1. Click the **Code** button at the top of this repository page.
 
